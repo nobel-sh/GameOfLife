@@ -14,9 +14,9 @@ You need the ```pygame``` module for this program to work.
 ```
 then, just clone the repo and run the ```main.py``` file  with ```python```
 ```bash
-  git clone 
-  cd 
-  python3 main.py
+  git clone https://github.com/Nobel49/GameOfLife.git
+  cd GameOfLife
+  python3 main.py -h
 ```    
 ## Usage:
 ``` 
