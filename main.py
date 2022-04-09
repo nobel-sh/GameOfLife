@@ -13,7 +13,7 @@ DIMENSION_OF_CELL = 15
 MARGIN = 2
 #-------------------------------------Arguments-Related-Stuff--------------------------------------------
 def print_help():
-    print("Usage: python3 main.py -h\n       python3 main.py -r [SIZE OF GRID]\n       python3 main.py -t [PATH TO TEXT FILE]")
+    print("Usage: python3 main.py -h\n       python3 main.py -r [SIZE OF GRID]\n       python3 main.py -t [PATH TO TEXT FILE]\n")
     exit(-1)
 
 
