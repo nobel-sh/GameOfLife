@@ -34,7 +34,7 @@ python3 main.py [Flags] [OPTIONS]
   python3 main.py -t ggg.txt
   ```
 ## ️Demo
-
+https://github.com/Nobel49/GameOfLife/blob/main/ggg.gif
 
 
 
