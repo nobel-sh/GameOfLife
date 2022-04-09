@@ -65,15 +65,17 @@ def next_state(state):
 #--------------------------------------Start-Program---------------------------------------------------------
 args = sys.argv[1:]
 
+if '-h' in args:
+    print_help()
+    
+
 if ('-r' in args and '-t' in args) or len(args)!=2:
     print("[*] Incorrect arguments provided")
     print("[*] Displaying the help message...")
     print_help()
 
 size = 0
-if '-h' in args:
-    print_help()
-    
+
 if '-r' in args:
     size = int(args[-1:][0])
     st = init_state(size)
