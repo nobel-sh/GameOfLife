@@ -1,6 +1,6 @@
 
 # Conway's Game Of Life
-Program to simulate Conway's Game Of Life written using Python
+Program to simulate Conway's Game Of Life written using Python3
 
 
 
