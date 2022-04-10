@@ -34,6 +34,7 @@ python3 main.py [Flags] [OPTIONS]
   python3 main.py -t ggg.txt
   ```
 ## ️Demo
+Below is a example showing Gosper Glider Gun
 ![ggg](https://user-images.githubusercontent.com/61617766/162564635-61eb4ce0-7d80-44c4-be16-5290b3b66daa.gif)
 
 
